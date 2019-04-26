@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntHashTable", "IntHashTable\IntHashTable.csproj", "{3FEF6287-2989-476A-B117-7DC548C6434C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntHashTableTests", "IntHashTableTests\IntHashTableTests.csproj", "{4FE3429C-7799-4AE0-A01B-78A901B12250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FEF6287-2989-476A-B117-7DC548C6434C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEF6287-2989-476A-B117-7DC548C6434C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEF6287-2989-476A-B117-7DC548C6434C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEF6287-2989-476A-B117-7DC548C6434C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE3429C-7799-4AE0-A01B-78A901B12250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE3429C-7799-4AE0-A01B-78A901B12250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE3429C-7799-4AE0-A01B-78A901B12250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE3429C-7799-4AE0-A01B-78A901B12250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D17C5C-E902-496B-91BB-5BA145292294}
+	EndGlobalSection
+EndGlobal
