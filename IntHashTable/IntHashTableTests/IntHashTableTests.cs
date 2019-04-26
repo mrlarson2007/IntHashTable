@@ -13,5 +13,12 @@ namespace IntHashTable.Tests
 
             Assert.True(hashTable.Contains(1));
         }
+
+        [Fact]
+        public void WhenNumberNotInTable_ContainsShouldReturnFalse()
+        {
+            var hashTable = new IntHashTable();
+            Assert.False(hashTable.Contains(0));
+        }
     }
 }

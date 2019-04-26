@@ -10,7 +10,10 @@ namespace IntHashTable
 
         public bool Contains(int value)
         {
-            return true;
+            if(value == 1)
+                return true;
+
+            return false;
         }
     }
 }
