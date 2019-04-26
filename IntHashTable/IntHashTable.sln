@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntHashTable", "IntHashTable\IntHashTable.csproj", "{3FEF6287-2989-476A-B117-7DC548C6434C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntHashTableTests", "IntHashTableTests\IntHashTableTests.csproj", "{4FE3429C-7799-4AE0-A01B-78A901B12250}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntHashTable.Tests", "IntHashTableTests\IntHashTable.Tests.csproj", "{4FE3429C-7799-4AE0-A01B-78A901B12250}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
